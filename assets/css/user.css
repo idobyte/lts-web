@@ -13,7 +13,7 @@
 
 
 body{
-  background-image: url("C:\Users\ktmgv\Downloads\lt2-site-master (2)\lt2-site-master\mobile\images\bg.png");
+  background-image: url("assets\img\bg.png");
   background-color: #cccccc;
 }
 
@@ -30,9 +30,7 @@ body{
 	font-size: 22px;
 	margin-bottom: 5px;
 }
-.lastarticle{
-	margin:0;
-}
+
 #ourserv{
 	margin: 8px 0 15px 20px;
 	width: 100%;
